@@ -1,2 +1,4 @@
 # os
-Human operating system
+
+An operating system for humans
+
