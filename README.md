@@ -1,4 +1,5 @@
-# os
+# psy
 
-An operating system for humans
+psychological modeling
+
 
